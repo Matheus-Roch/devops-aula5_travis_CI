@@ -1,4 +1,3 @@
-jogovelha.py é
 def inicializar():
 	tab = [ ]
 	for i in range(3):
