@@ -1,3 +1,4 @@
+def inicializa()
 tab = []
     for i in range(3):
     	linha = [ ]
