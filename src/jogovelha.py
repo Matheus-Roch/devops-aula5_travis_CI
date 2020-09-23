@@ -11,6 +11,6 @@ def main( ):
 	jogo = inicializar( )
 	print (jogo)
 
-i f __name__ == "__main__":
+if __name__ == "__main__":
 	main()
 
